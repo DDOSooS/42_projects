@@ -6,12 +6,13 @@
 /*   By: aghergho <aghergho@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/31 18:43:01 by aghergho          #+#    #+#             */
-/*   Updated: 2023/11/01 15:33:31 by aghergho         ###   ########.fr       */
+/*   Updated: 2023/11/01 23:54:11 by aghergho         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <string.h>
+
+
+#include "libft.h"
 
 void    *ft_memmove(void *dest, const void *src, size_t n)
 {
